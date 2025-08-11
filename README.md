@@ -73,6 +73,7 @@ streamlit run app.py
 ```
 Screenshots :
 ![image alt](https://github.com/2CentsCapitalHR/ai-engineer-task-Blacky-101/blob/d3fa9257ca90377a3594aa1b00f03c7464cb1eca/2025-08-11.png)
+![image alt](https://github.com/2CentsCapitalHR/ai-engineer-task-Blacky-101/blob/1144b5e47af4f1eff57ecf90453cbdff5c468165/2025-08-11%20(1).png)
 ## Roadmap
 - **Tier-2 Upgrade:** Integrate Retrieval-Augmented Generation (RAG) to cite official ADGM regulations for every flagged issue.
 - Support for more document categories (Licensing, HR Contracts, Commercial Agreements, etc.)
